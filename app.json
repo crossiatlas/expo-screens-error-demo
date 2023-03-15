@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-screens-error-demo",
+    "slug": "expo-screens-error-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
